@@ -1,2 +1,2 @@
 # NumPy
-Study NumPy
+Studying NumPy 📑
